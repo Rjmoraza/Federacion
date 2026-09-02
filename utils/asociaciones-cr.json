@@ -1,0 +1,137 @@
+{
+  "sectores": [
+    {
+      "id": "audiovisual",
+      "nombre": "Audiovisual y Cinematográfico"
+    },
+    {
+      "id": "actuacion",
+      "nombre": "Actores, Actrices y Artes Escénicas"
+    },
+    {
+      "id": "videojuegos",
+      "nombre": "Desarrollo de Videojuegos y Entretenimiento Digital"
+    }
+  ],
+  "organizaciones": [
+    {
+      "id": "apicc",
+      "nombre": "Asociación de Productores Independientes de Cine de Costa Rica",
+      "acronimo": "APICC",
+      "sector": "audiovisual",
+      "tipo": "Asociación Gremial / Empresarial",
+      "enfoque": "Productores de cine independiente y casas productoras",
+      "descripcion": "Defiende los intereses de casas productoras y productores independientes; negocia políticas públicas de fomento, sostenibilidad de convocatorias de financiamiento estatal, preservación del CRFIC y coproducción internacional."
+    },
+    {
+      "id": "ccr",
+      "nombre": "Asociación de Autores y Autoras de Cinematografía de Costa Rica",
+      "acronimo": "CCR",
+      "sector": "audiovisual",
+      "tipo": "Asociación Profesional",
+      "enfoque": "Dirección de fotografía, camarógrafos y personal técnico afín",
+      "descripcion": "Agrupa a directores de fotografía, operadores de cámara, coloristas, asistentes de cámara y data managers. Establece categorías de membresía, otorga aval de siglas profesionales en créditos y promueve estándares técnicos y laborales."
+    },
+    {
+      "id": "udccr",
+      "nombre": "Unión de Directoras de Cine de Costa Rica",
+      "acronimo": "UDCCR",
+      "sector": "audiovisual",
+      "tipo": "Colectiva / Asociación Profesional",
+      "enfoque": "Directoras de cine y paridad de género audiovisual",
+      "descripcion": "Colectiva de directoras que promueve equidad de género, diversidad y representatividad en producciones nacionales e iberoamericanas; formación y acceso equitativo a fondos públicos."
+    },
+    {
+      "id": "dokus",
+      "nombre": "DOKUS – Asociación de Documentalistas de Costa Rica",
+      "acronimo": "DOKUS",
+      "sector": "audiovisual",
+      "tipo": "Asociación Profesional",
+      "enfoque": "Creadores y realizadores de cine documental",
+      "descripcion": "Impulsa la creación, investigación y distribución de obras documentales, fomenta espacios de exhibición especializada y vela por la preservación de la memoria histórica audiovisual."
+    },
+    {
+      "id": "acsa",
+      "nombre": "Asociación Costarricense de Sonidistas Audiovisuales",
+      "acronimo": "ACSA",
+      "sector": "audiovisual",
+      "tipo": "Asociación Profesional",
+      "enfoque": "Especialistas en sonido directo, diseño sonoro y audio",
+      "descripcion": "Reúne a ingenieros de sonido, diseñadores sonoros, sonidistas directos y técnicos de audio; aboga por estandarización de condiciones laborales y actualización técnica."
+    },
+    {
+      "id": "caiac",
+      "nombre": "Cámara de la Industria Audiovisual Costarricense",
+      "acronimo": "CAIAC",
+      "sector": "audiovisual",
+      "tipo": "Cámara Empresarial",
+      "enfoque": "Capacitación, exportación de servicios e industria audiovisual",
+      "descripcion": "Creada en julio de 2010, articulada como Capítulo Audiovisual dentro de CAMTIC. Fortalece, capacita y promociona comercialmente al sector audiovisual, con representación institucional para mercadeo internacional."
+    },
+    {
+      "id": "creative-media-cr",
+      "nombre": "Creative Media Costa Rica",
+      "acronimo": null,
+      "sector": "audiovisual",
+      "tipo": "Asociación de Fomento Empresarial",
+      "enfoque": "Atracción de inversión, exportación y sostenibilidad",
+      "descripcion": "Promueve la exportación, atracción de inversiones y mejora continua del sector; articula al sector privado audiovisual con instituciones públicas y fondos de capital internacional."
+    },
+    {
+      "id": "fundacine",
+      "nombre": "Fundación Amigos del Cine",
+      "acronimo": "FUNDACINE",
+      "sector": "audiovisual",
+      "tipo": "Fundación / ONG",
+      "enfoque": "Fomento, capacitación regional y archivo cinematográfico",
+      "descripcion": "Mediante su proyecto regional CINERGIA, gestiona el fomento, formación, producción y postproducción del cine en Centroamérica y el Caribe."
+    },
+    {
+      "id": "comision-filmica-cr",
+      "nombre": "Comisión Fílmica de Costa Rica",
+      "acronimo": null,
+      "sector": "audiovisual",
+      "tipo": "Instancia Público-Privada (Decreto Ejecutivo)",
+      "enfoque": "Promoción de marca país como destino de filmación y Film Friendly Zones",
+      "descripcion": "Creada vía Decreto N° 35384-MCJ-COMEX, integrada por COMEX, PROCOMER, ICT, MCJ, Centro de Cine y sector privado organizado."
+    },
+    {
+      "id": "interartis",
+      "nombre": "InterArtis Costa Rica (Asociación de Artistas Audiovisuales)",
+      "acronimo": "InterArtis",
+      "sector": "actuacion",
+      "tipo": "Entidad de Gestión Colectiva / Asociación",
+      "enfoque": "Derechos conexos y patrimoniales de actores/actrices de imagen, voz y doblaje",
+      "descripcion": "Constituida el 1 de junio de 2013 e inscrita en el Registro Nacional. Miembro de la federación internacional Latin Artis; administra, recauda y distribuye derechos patrimoniales por comunicación pública, fijación y retransmisión de interpretaciones audiovisuales.",
+      "fecha_constitucion": "2013-06-01"
+    },
+    {
+      "id": "aie-costa-rica",
+      "nombre": "Asociación de Intérpretes y Ejecutantes de Costa Rica",
+      "acronimo": "AIE Costa Rica",
+      "sector": "actuacion",
+      "tipo": "Entidad de Gestión Colectiva / Asociación",
+      "enfoque": "Protección y gestión de derechos de intérpretes escénicos y musicales",
+      "descripcion": "Concentrada primordialmente en interpretación musical; entidad de gestión colectiva de referencia en derechos conexos de ejecutantes escénicos, participa en discusiones legislativas de propiedad intelectual."
+    },
+    {
+      "id": "asodev",
+      "nombre": "Asociación de Desarrolladores de Videojuegos de Costa Rica",
+      "acronimo": "ASODEV",
+      "sector": "videojuegos",
+      "tipo": "Asociación sin Fines de Lucro",
+      "enfoque": "Internacionalización (GDC), catálogo de IP, becas y representación en la FLAV",
+      "descripcion": "Fundada en 2018 por siete empresas consolidadas. Conformada por estudios de desarrollo, profesionales independientes, emprendedores, docentes y estudiantes. Miembro de la Federación Latinoamericana de Videojuegos (FLAV).",
+      "fecha_fundacion": "2018"
+    },
+    {
+      "id": "camtic-videojuegos",
+      "nombre": "Cámara de Tecnologías de Información y Comunicación (Subsector Videojuegos)",
+      "acronimo": "CAMTIC",
+      "sector": "videojuegos",
+      "tipo": "Cámara Empresarial",
+      "enfoque": "Promoción comercial, vinculación con el sector TIC y desarrollo de mercado",
+      "descripcion": "Canaliza demandas de infraestructura tecnológica, incentivos de software y misiones de exportación de empresas desarrolladoras de videojuegos a través de su capítulo de animación y entretenimiento digital."
+    }
+  ]
+}
