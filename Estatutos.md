@@ -102,13 +102,23 @@ Los acuerdos se tomarán por mayoría simple de votos de las entidades presentes
 
 La Junta Directiva es el órgano que gestiona y representa los intereses de la Federación. Estará formada por:
 
+- **Una persona representante de los sectores de producción y dirección cinematográfica**
+- **Una persona representante del sector de actuación, doblaje, danza y artes dramáticas**
+- **Una persona representante del sector de desarrollo de videojuegos**
+- **Una persona representante del sector de animación digital**
+- **Una persona representante del área de leyes, propiedad intelectual y derecho digital**
+
+Las representaciones serán ejercidas por personas físicas nominadas por las asociaciones federadas respectivas de acuerdo a la cobertura en materia descrita en sus estatutos. Si alguno de los sectores listados no tiene representación de una asociación activa en la federación, la persona para el puesto correspondiente podrá ser nominada por cualquiera de las otras asociaciones federadas.
+
+Las personas que integran la junta directiva asumirán los cargos de: 
+
 - **Presidencia**
 - **Vicepresidencia**
 - **Secretaría**
 - **Tesorería**
-- **Vocalías** (con el número que se determine)
+- **Vocalías**
 
-Los cargos serán ejercidos por personas físicas pertenecientes a las asociaciones federadas. El mandato tendrá una duración de [2 / 4] años, pudiendo ser reelegidos.
+Los nombramientos y sus funciones se elegirán por la Asamblea General y tendrán una duración de 2 años con capacidad de reelección indefinida.
 
 **Artículo 14. Funciones de la Junta Directiva**
 
