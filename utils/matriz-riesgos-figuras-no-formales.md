@@ -1,6 +1,6 @@
 # Matriz de Riesgos: Trabajar Juntos sin Constituir una Organización Formal
 
-Antes de crear la Federación de Asociaciones Audiovisuales, se propone una etapa de prueba: que las asociaciones trabajen juntas sin registrar todavía una entidad nueva. Esta etapa se llama aquí **prueba piloto**.
+Antes de crear la Federación, se propone una etapa de prueba: que las asociaciones trabajen juntas sin registrar todavía una entidad nueva. Esta etapa se llama aquí **prueba piloto**.
 
 Hay tres formas de hacerlo, de menos a más formal:
 
