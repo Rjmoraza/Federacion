@@ -59,15 +59,15 @@
       "enfoque": "Especialistas en sonido directo, diseño sonoro y audio",
       "descripcion": "Reúne a ingenieros de sonido, diseñadores sonoros, sonidistas directos y técnicos de audio; aboga por estandarización de condiciones laborales y actualización técnica."
     },
-    {
-      "id": "caiac",
-      "nombre": "Cámara de la Industria Audiovisual Costarricense",
-      "acronimo": "CAIAC",
-      "sector": "audiovisual",
-      "tipo": "Cámara Empresarial",
-      "enfoque": "Capacitación, exportación de servicios e industria audiovisual",
-      "descripcion": "Creada en julio de 2010, articulada como Capítulo Audiovisual dentro de CAMTIC. Fortalece, capacita y promociona comercialmente al sector audiovisual, con representación institucional para mercadeo internacional."
-    },
+    // {
+    //   "id": "caiac",
+    //   "nombre": "Cámara de la Industria Audiovisual Costarricense",
+    //   "acronimo": "CAIAC",
+    //   "sector": "audiovisual",
+    //   "tipo": "Cámara Empresarial",
+    //   "enfoque": "Capacitación, exportación de servicios e industria audiovisual",
+    //   "descripcion": "Creada en julio de 2010, articulada como Capítulo Audiovisual dentro de CAMTIC. Fortalece, capacita y promociona comercialmente al sector audiovisual, con representación institucional para mercadeo internacional."
+    // },
     {
       "id": "creative-media-cr",
       "nombre": "Creative Media Costa Rica",
@@ -77,24 +77,15 @@
       "enfoque": "Atracción de inversión, exportación y sostenibilidad",
       "descripcion": "Promueve la exportación, atracción de inversiones y mejora continua del sector; articula al sector privado audiovisual con instituciones públicas y fondos de capital internacional."
     },
-    {
-      "id": "fundacine",
-      "nombre": "Fundación Amigos del Cine",
-      "acronimo": "FUNDACINE",
-      "sector": "audiovisual",
-      "tipo": "Fundación / ONG",
-      "enfoque": "Fomento, capacitación regional y archivo cinematográfico",
-      "descripcion": "Mediante su proyecto regional CINERGIA, gestiona el fomento, formación, producción y postproducción del cine en Centroamérica y el Caribe."
-    },
-    {
-      "id": "comision-filmica-cr",
-      "nombre": "Comisión Fílmica de Costa Rica",
-      "acronimo": null,
-      "sector": "audiovisual",
-      "tipo": "Instancia Público-Privada (Decreto Ejecutivo)",
-      "enfoque": "Promoción de marca país como destino de filmación y Film Friendly Zones",
-      "descripcion": "Creada vía Decreto N° 35384-MCJ-COMEX, integrada por COMEX, PROCOMER, ICT, MCJ, Centro de Cine y sector privado organizado."
-    },
+    // {
+    //   "id": "fundacine",
+    //   "nombre": "Fundación Amigos del Cine",
+    //   "acronimo": "FUNDACINE",
+    //   "sector": "audiovisual",
+    //   "tipo": "Fundación / ONG",
+    //   "enfoque": "Fomento, capacitación regional y archivo cinematográfico",
+    //   "descripcion": "Mediante su proyecto regional CINERGIA, gestiona el fomento, formación, producción y postproducción del cine en Centroamérica y el Caribe."
+    // },
     {
       "id": "interartis",
       "nombre": "InterArtis Costa Rica (Asociación de Artistas Audiovisuales)",
@@ -125,7 +116,7 @@
       "fecha_fundacion": "2018"
     },
     {
-      "id": "camtic-videojuegos",
+      "id": "camtic",
       "nombre": "Cámara de Tecnologías de Información y Comunicación (Subsector Videojuegos)",
       "acronimo": "CAMTIC",
       "sector": "videojuegos",

@@ -14,8 +14,8 @@ La Federación tendrá los siguientes fines principales:
 
 1. Coordinar, representar y defender los intereses comunes de las asociaciones federadas ante instituciones públicas y privadas, nacionales e internacionales. Esta representación es de naturaleza gremial y profesional, y en ningún caso tendrá carácter político-partidista.
 2. Fomentar la colaboración, el intercambio de experiencias y la solidaridad entre las asociaciones miembros.
-3. Conocer y articular la ruta estratégica de cada asociación miembro para el desarrollo de su sector y de sus agremiados.
-4. Promover programas, proyectos y actividades que impulsen el desarrollo de la producción audiovisual costarricense y de las disciplinas creativas que concurren a ella. Comprende, de manera enunciativa y no taxativa: cine, televisión, animación, videojuegos, fotografía, publicidad audiovisual, contenidos digitales y transmedia, así como la actuación, el doblaje, las artes escénicas, la música, la ilustración, el cómic y la novela gráfica, en cuanto aportan talento, obra originaria, adaptación, interpretación, banda sonora o registro a la cadena de valor del ámbito audiovisual.
+3. Conocer y articular la ruta estratégica de cada asociación miembro para el desarrollo de su sector y de sus agremiados. Respetando la independencia de cada uno de los agremiados, el conocimiento que tengan de cada subsector como sus interéses. 
+4. Promover programas, proyectos y actividades que impulsen el desarrollo de la producción audiovisual costarricense y de las disciplinas creativas que concurren a ella. Comprende, de manera enunciativa y no taxativa: cine, televisión, animación, videojuegos, fotografía, publicidad audiovisual, contenidos digitales, transmedia y multimedia, así como la actuación, el doblaje, las artes escénicas, la música, la ilustración, el cómic y la novela gráfica, en cuanto aportan talento, obra originaria, adaptación, interpretación, banda sonora o registro a la cadena de valor del ámbito audiovisual.
 5. Prestar servicios de asesoramiento, formación e información a las entidades integrantes.
 6. Gestionar, administrar y liquidar recursos, subvenciones, donaciones y fondos de cooperación destinados al cumplimiento de los fines anteriores.
 
@@ -40,14 +40,12 @@ Podrán formar parte de la Federación todas aquellas asociaciones legalmente co
 Para su admisión, la asociación interesada deberá presentar:
 
 1. Solicitud formal firmada por su representante legal.
-2. Acuerdo del órgano competente de la asociación solicitante donde se apruebe la incorporación a la Federación, por mayoría de sus miembros.
+2. Acuerdo del órgano directivo o de cualquier órgano equivalente o superior de la asociación solicitante, donde se apruebe la incorporación a la Federación, por mayoría de sus miembros.
 3. Copia de sus Estatutos inscritos y certificación de personería jurídica vigente, con no más de tres meses de expedida.
 
-La Junta Directiva resolverá la solicitud mediante acuerdo escrito y motivado dentro de los treinta días naturales siguientes a su recepción. La admisión tendrá carácter provisional y deberá ser ratificada en la siguiente Asamblea General.
+La Junta Directiva resolverá la solicitud mediante acuerdo escrito. La admisión tendrá carácter provisional y deberá ser ratificada en la siguiente Asamblea General.
 
-Los actos y votaciones en que hubiere participado una asociación admitida provisionalmente conservan plena validez aunque la Asamblea General deniegue posteriormente la ratificación.
-
-Contra la denegatoria de admisión cabrá recurso ante la Asamblea General, que deberá interponerse dentro de los diez días hábiles siguientes a la notificación.
+Contra la denegatoria de admisión cabrá recurso ante la Asamblea General, que deberá interponerse dentro de los [indicar plazos] siguientes a la notificación.
 
 **Artículo 6. Pérdida de la condición de asociación federada**
 
@@ -64,32 +62,31 @@ La condición de asociación federada se perderá por:
    e) El uso indebido, la aplicación a un destino distinto o la falta de liquidación de fondos, públicos o privados, canalizados por medio de la Federación.
    f) Las demás que tipifique como graves el Código de Ética, una vez aprobado.
 
-En los supuestos 1 y 2 la baja será declarada por la Junta Directiva mediante simple constatación. En los supuestos 3 y 4 la baja será acordada por la Asamblea General, previa audiencia de la entidad interesada por un plazo no menor a diez días hábiles y mediante resolución escrita y motivada. Contra dicho acuerdo cabrá recurso de revocatoria ante la propia Asamblea General, que deberá interponerse dentro de los cinco días hábiles siguientes a la notificación.
-
-Toda baja se anotará como marginal en el asiento respectivo del libro de miembros, conforme al artículo 17 de la Ley N.º 218.
+En los supuestos 1 y 2 la baja será declarada por la Junta Directiva mediante simple constatación. En los supuestos 3 y 4 la baja será acordada por la Asamblea General, previa audiencia de la entidad interesada por un plazo no menor [insertar plazo] y mediante resolución escrita y motivada. Contra dicho acuerdo cabrá recurso de revocatoria ante la propia Asamblea General, que deberá interponerse dentro de los [insertar plazo] hábiles siguientes a la notificación.
 
 **Artículo 7. Derechos de las asociaciones federadas**
 
 Las asociaciones miembros tienen derecho a:
 
 1. Participar en las Asambleas Generales con voz y voto a través de sus representantes acreditados.
-2. Elegir y ser elegibles, por medio de sus representantes acreditados, para los órganos de gobierno, representación y fiscalización de la Federación.
-3. Ser informadas sobre la gestión, cuentas y actividades de la Federación, y examinar los libros y documentos de esta.
-4. Hacer uso de los servicios que preste la Federación.
-5. Impugnar los acuerdos que estimen contrarios a la ley o a estos Estatutos.
+2. Proponer puntos de agenda para las Asambleas Generales y poder discutir sobre utilidad y prioridad de las mismas. 
+3. Elegir, ser elegibles y postular para los órganos de gobierno, representación y fiscalización de la Federación.
+4. Ser informadas sobre la gestión, cuentas y actividades de la Federación, y examinar los libros y documentos de esta.
+5. Hacer uso de los servicios que preste la Federación.
+6. Impugnar los acuerdos que estimen contrarios a la ley o a estos Estatutos.
 
 **Artículo 8. Deberes de las asociaciones federadas**
 
 Las asociaciones miembros están obligadas a:
 
 1. Compartir las finalidades de la Federación y colaborar para su consecución.
-2. Pagar las cuotas y aportaciones que en su caso se establezcan.
-3. Cumplir los presentes Estatutos, sus reglamentos y los acuerdos válidamente adoptados por los órganos de gobierno.
-4. Mantener vigente su inscripción y su personería jurídica, y comunicar a la Federación todo cambio en su representación legal.
+2. Cumplir los presentes Estatutos, sus reglamentos y los acuerdos válidamente adoptados por los órganos de gobierno.
+3. Mantener vigente su inscripción y su personería jurídica, y comunicar a la Federación todo cambio en su representación legal.
+4. Pagar las cuotas y aportaciones que en su caso se establezcan.
 
 ## CAPÍTULO III. ÓRGANOS DE GOBIERNO, REPRESENTACIÓN Y FISCALIZACIÓN
 
-Son órganos de la Federación, conforme al artículo 10 de la Ley N.º 218:
+Son órganos de la Federación:
 
 1. La **Asamblea General** (órgano supremo).
 2. La **Junta Directiva** (órgano directivo, de gestión y representación).
@@ -105,7 +102,7 @@ La Asamblea General es el órgano supremo de la Federación y está integrada po
 
 Cada asociación federada tendrá **un voto**, cualquiera que sea su número de agremiados.
 
-Cada asociación federada designará una persona representante propietaria y una suplente. La acreditación se hará ante la Secretaría, con al menos cinco días naturales de antelación a la Asamblea, mediante:
+Cada asociación federada designará una persona representante propietaria y una suplente. La acreditación se hará con al menos [agregar plazos] de antelación ante la Junta Directiva, mediante:
 
 1. Certificación de personería jurídica vigente de la asociación, con no más de un mes de expedida, cuando la persona acreditada sea su representante legal; o
 2. Carta de designación firmada por el representante legal de la asociación, acompañada de la certificación de personería referida en el inciso anterior.
@@ -126,7 +123,7 @@ Las convocatorias se realizarán por escrito, por medio físico o electrónico d
 La Asamblea General quedará válidamente constituida:
 
 - **En primera convocatoria**, con la asistencia de al menos un tercio (1/3) de las asociaciones federadas con derecho a voto.
-- **En segunda convocatoria**, celebrada media hora después de la señalada para la primera, cualquiera que sea el número de asistentes.
+- **En segunda convocatoria**, celebrada una hora después de la señalada para la primera, cualquiera que sea el número de asistentes.
 
 **Artículo 13. Adopción de acuerdos**
 
@@ -145,7 +142,7 @@ Los acuerdos se harán constar en el libro de actas de la Asamblea General.
 
 **Artículo 14. Composición, paridad y representación sectorial**
 
-La Junta Directiva es el organismo directivo de la Federación, la gestiona y representa sus intereses. Estará integrada por **siete (7) personas mayores de edad**, cumpliendo el mínimo de cinco que exige el artículo 10.1 de la Ley N.º 218, distribuidas así:
+La Junta Directiva es el organismo directivo de la Federación, la gestiona y representa sus intereses. Estará integrada por **siete (7) personas mayores de edad**, cumpliendo el mínimo de cinco, distribuidas así:
 
 - **Presidencia**
 - **Vicepresidencia**
@@ -153,7 +150,7 @@ La Junta Directiva es el organismo directivo de la Federación, la gestiona y re
 - **Tesorería**
 - **Tres (3) Vocalías**
 
-**Paridad de género.** La integración de la Junta Directiva garantizará la representación paritaria de ambos sexos conforme al artículo 10.1 de la Ley N.º 218, reformado por la Ley N.º 8901. Tratándose de un órgano impar, la diferencia entre el total de hombres y de mujeres no podrá ser superior a uno, de modo que la conformación será de cuatro y tres. Esta regla se aplicará de forma progresiva y siempre que ello sea posible según la conformación fáctica y proporcional de los géneros en las asociaciones federadas.
+**Paridad de género.** La integración de la Junta Directiva garantizará la representación paritaria de ambos sexos. Tratándose de un órgano impar, la diferencia entre el total de hombres y de mujeres no podrá ser superior a uno, de modo que la conformación será de cuatro y tres. Esta regla se aplicará de forma progresiva y siempre que ello sea posible según la conformación fáctica y proporcional de los géneros en las asociaciones federadas.
 
 **Representación sectorial.** La Junta Directiva, considerada en su conjunto y con independencia del cargo que cada persona ocupe, procurará incluir al menos una persona representante de cada uno de los siguientes sectores:
 
@@ -161,6 +158,7 @@ La Junta Directiva es el organismo directivo de la Federación, la gestiona y re
 2. Actuación, doblaje y artes escénicas.
 3. Videojuegos y contenidos interactivos.
 4. Animación digital.
+5. Leyes, propiedad intelectual y derecho digital.
 
 Cuando no exista asociación federada activa que cubra alguno de estos sectores, o cuando la aplicación estricta de la representación sectorial impida cumplir la paridad de género, **prevalecerá la paridad**, y la Asamblea General ajustará la integración de la Junta Directiva en consecuencia, dejando constancia motivada en el acta.
 
@@ -168,14 +166,14 @@ Cuando no exista asociación federada activa que cubra alguno de estos sectores,
 
 Las personas candidatas a integrar la Junta Directiva o la Fiscalía deben:
 
-1. Ser mayores de edad y representantes acreditados de una asociación federada.
+1. Ser mayor de edad y pertenecer a alguna de las asociaciones federadas. 
 2. No tener conflictos de interés declarados frente a la Federación o sus asociadas.
 3. No estar bajo sanción disciplinaria vigente conforme al Código de Ética de la Federación.
-4. No estar en incumplimiento de deberes económicos con la Federación al momento de la nominación.
-5. No haber sido condenadas por sentencia penal firme por delitos contra los deberes de la función pública, contra la propiedad o contra la buena fe en los negocios, ni por los previstos en la Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública, Ley N.º 8422; ni encontrarse cumpliendo sanción administrativa firme impuesta conforme a esa misma Ley.
-6. Cuando la persona candidata ostente la condición de funcionario público, no encontrarse afectada por las prohibiciones e incompatibilidades de los artículos 17 y 18 de la Ley N.º 8422 respecto de la Federación.
+4. No haber sido condenadas por sentencia penal firme por delitos contra los deberes de la función pública, contra la propiedad o contra la buena fe en los negocios, ni por los previstos en la Ley contra la Corrupción y el Enriquecimiento Ilícito en la Función Pública, Ley N.º 8422; ni encontrarse cumpliendo sanción administrativa firme impuesta conforme a esa misma Ley.
+5. Cuando la persona candidata ostente la condición de funcionario público, no encontrarse afectada por las prohibiciones e incompatibilidades de los artículos 17 y 18 de la Ley N.º 8422 respecto de la Federación.
+6. No estar en incumplimiento de deberes económicos con la Federación al momento de la nominación.
 
-Ninguna asociación federada podrá ocupar más de dos cargos simultáneos en la Junta Directiva.
+Ninguna persona física podrá ocupar más de dos cargos simultáneos en la Junta Directiva.
 
 La pérdida sobreviniente de cualquiera de estos requisitos produce el cese en el cargo, que declarará la Junta Directiva mediante acuerdo motivado, procediéndose conforme al artículo 17.
 
